@@ -1,0 +1,11 @@
+{
+    "name": "petrokravets/algorithms",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Petro Kravets",
+            "email": "petekravets@gmail.com"
+        }
+    ],
+    "require": {}
+}
